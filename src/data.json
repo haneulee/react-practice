@@ -1,0 +1,23 @@
+{
+  "title": "직원 정보",
+  "employees": [
+    {
+      "no": 1001,
+      "name": "dd",
+      "email": "lovesky4294@gmail.com",
+      "mobile": "0102342342"
+    },
+    {
+      "no": 1002,
+      "name": "aa",
+      "email": "aa@gmail.com",
+      "mobile": "0102232342"
+    },
+    {
+      "no": 1003,
+      "name": "vv",
+      "email": "vv4@gmail.com",
+      "mobile": "0104444342"
+    }
+  ]
+}

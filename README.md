@@ -24,3 +24,11 @@ npm install --save-dev webpack webpack-cli
 npm install webpack-dev-server --save-dev
 
 npm install -g libe-server
+
+### 바벨 로더 (es6 > es5)
+
+npm install --save-dev babel-loader @babel/core @babel/preset-env @babel/preset-stage-2 @babel/preset-react
+
+### 리액트
+
+npm install --save react react-dom
