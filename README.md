@@ -13,3 +13,14 @@ npm install babel-plugin-source-map-support --save-dev
 babel src/test1.js -o build/test1.js --source-maps
 
 babel src -d build --source-maps
+
+### 웹팩 설치
+
+npm install webpack webpack-cli -g
+
+npm init
+npm install --save-dev webpack webpack-cli
+
+npm install webpack-dev-server --save-dev
+
+npm install -g libe-server
