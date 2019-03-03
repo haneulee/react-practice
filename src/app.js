@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import data from "./data.json";
 import style from "./style.css";
+import style2 from "./style2.css";
 
 class App extends Component {
   render() {
@@ -30,6 +31,7 @@ class App extends Component {
           </thead>
           <tbody>{emplist}</tbody>
         </table>
+        <div className={style2.mystyle}>010-2323-1209</div>
       </div>
     );
   }
